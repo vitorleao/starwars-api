@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env
+.env.*
+*.sqlite3
+*.db
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+pip-wheel-metadata/
+pip-log.txt
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Docker
+*.log
+*.pid
+
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+.mypy_cache/
+coverage.xml
+
+# AWS/GCP build artifacts
+.aws-sam/
+.gcloudignore
+
+# Others
+*.egg-info/
+dist/

@@ -1,0 +1,10 @@
+black
+fastapi
+functions-framework
+httpx
+mangum
+slowapi
+python-dotenv
+pytest
+pytest-asyncio
+pytest-mock
